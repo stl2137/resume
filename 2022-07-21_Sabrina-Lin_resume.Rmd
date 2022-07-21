@@ -1,0 +1,230 @@
+---
+title: "STL resume"
+author: "Sabrina Lin"
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Sabrina Lin](Lin, Sabrina_210823_07.jpg)
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> slin5\@mskcc.org
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+**Data Analytics & Visualization:**  R/RStudio, Git/Github SAS, LaTeX, Tableau, SQL (Oracle, Teradata, JMP, PASS)
+
+**Microsoft Office Business Proficiency:** Word, Excel, Access
+
+**Languages:** English (Native), Mandarin Chinese (Fluent: Speaking, Intermediate: Reading, Writing)
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Sabrina Lin {#title}
+--------------------------------------------------------------------------------
+
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Columbia University Mailman School of Public Health, 
+
+Master of Science (M.S.) in Biostatistics
+
+New York, New York
+
+MAY 2021 - SEPTEMBER 2019 
+
+
+
+*Relevant Coursework:* Clinical Trial Methodology, Causal Inference, Longitudinal Data, SAS, Statistical Inference, Randomized Clinical Trials, Probability, Data Science 1 & 2, Biostatistical Methods 1 & 2, Principles of Epidemiology
+
+*Masters Project:* "Examining the Association between Immune Biomarkers and Breast Development" (Advisors: Drs. Jasmine McDonald, Ying Wei)
+
+
+### Loyola University Chicago
+
+Bachelor of Science (B.S.) with Honors in Statistics, minor in Information Systems 
+
+Chicago, Illinois
+
+MAY 2019 - AUGUST 2015
+
+*Relevant Coursework:* Quantitative Bioinformatics, Mathematical Statistics, Survival Analysis, Linear Algebra
+
+*Honors:* College of Arts & Science Dean’s List Recipient, Interdisciplinary Honors Program
+
+*Study Abroad:* The Beijing Center, Beijing, China; Affiliated with University of International Business and Economics
+
+Experience {data-icon=handshake}
+--------------------------------------------------------------------------------
+
+### Memorial Sloan Kettering Cancer Center (MSKCC)
+
+Assistant Research Biostatistician
+
+New York, New York 
+
+PRESENT - AUGUST 2021
+
+- Utilizes R and SAS to clean, merge, analyze, and visualize clinical survival data with up to 1000 patients
+
+- Collaborates and communicates via email and Zoom meetings with 3 faculty biostatisticians and 15
+clinicians in the colorectal surgical oncology, gastric multiple tumor, and early drug development services
+
+### Columbia University Mailman School of Public Health
+
+Graduate Research Assistant: Department of Epidemiology with Dr. Jasmine McDonald
+
+New York, New York
+
+JUNE 2021 - JUNE 2020
+
+- Merged and cleaned multi-site, longitudinal dataset totaling 900+ variables and 100 observations
+- Visualized exploratory data and fitted median regression lines with bootstrapped 95% confidence intervals via R analyzing pre-pubescent girls’ biomarkers in relation to pubertal timing for eventual publication
+- Submitted first author abstract to the American Society of Prevention Oncology 2021 Annual Meeting
+- Applied quantile regression to explore the relationship between the onset of puberty and biomarker levels
+
+### University of California San Francisco (UCSF)
+
+Biostatistics Intern: Department of Neurological Surgery with Dr. Annette Molinaro
+
+San Francisco, California
+
+AUGUST 2019 & 2018 - JUNE 2019 & 2018
+
+- Analyzed postoperative effects using statistical matching between awake and asleep glioblastoma patients 
+- Performed survival analysis and visualized low grade glioma clinical neurosurgery data on patient survival status using R and JMP which lead to an acknowledgement in a paper published in Nature 
+- Cleaned and manipulated clinical datasets ranging from 200 to 800 patients 
+- Facilitated literature review research for meta-analysis paper on association of glioblastoma survival status and extent of resection
+
+### Beijing United Family Hospital (北京和睦家医院)
+
+Marketing Intern
+
+Beijing, China
+
+MAY 2018 - JANUARY 2018
+
+- Performed Chinese to English medical translations for marketing Powerpoints and informational pamphlets 
+- Analyzed 400 rows of recruitment hospital data with SAS looking at client influx from 6 relocation agencies to allocate  marketing resources 
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Columbia University Mailman School of Public Health
+
+Teacher Assistant: P8140 Introduction to Clinical Trials with Dr. John (Seamus) Thompson
+
+New York, New York
+
+JANUARY 2021 - AUGUST 2020
+
+
+
+- Moderated weekly Zoom class sessions, planned semimonthly quizzes, and advised 27 students during weekly office hours on course materials and assignments 
+- Guided, provided feedback, and graded students’ Phase 3 randomized clinical trial (RCT) proposals 
+- Assisted students with PASS software to calculate sample size and power for Phase 3 RCT proposals
+
+
+```{r, eval=FALSE}
+# need to fill in publications and posters section!
+```
+
+Publications and Posters {data-icon=file}
+--------------------------------------------------------------------------------
+
+### 
+
+Biochemical measures of ovarian function in female high-risk neuroblastoma survivors
+
+International Symposium on Late Complications after Childhood Cancer 
+
+2022
+
+A DeRosa, K Bogardus, **CE Kostrzewa**, C Moskowitz, Z Antal, S Wolden, E Basu, S Roberts, F Iglesias Cardenas, N-KV Cheung, B Kushner, S Modak, D Novetsky Friedman
+
+::: aside
+Abstract Submitted
+:::
+
+### 
+
+SBRT Focal Dose Intensification to the Dominant Intraprostatic Lesion (DIL) Using an MR-Linac Adaptive Planning for Intermediate-Risk Prostate Cancer
+
+Radiotherapy and Oncology
+
+2022
+
+VS Brennan, S Burleson, **CE Kostrzewa**, PG Scripes, E Subashi, Z Zhang, N Tyagi, MJ Zelefsky
+
+::: aside
+Abstract Submitted
+:::
+
+### 
+
+Favorable Clinical Outcomes of Medication Related Osteonecrosis of the Jaw Following Conservative Management: MSKCC Experience
+
+MASCC/ISOO 2022 Annual Meeting
+
+2022
+
+A Singh, **CE Kostrzewa**, A Pischek, E Riedel, S Yom, J Randazzo, J Huryn, C Estilo
+
+
+::: aside
+Abstract Submitted
+:::
+
+
+### 
+
+A Novel Predictive Model to Understand the Influence of Progression of Tumor Growth to Predict Survival in Liver Cancer
+
+ENAR
+
+2021
+
+**CE Kostrzewa**, M Karmakar, S Chakraborty, S Sinha
+
+
+Presentations {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### 
+
+Updates in R 4.2.0
+
+MSKCC Biostatistics Department: Open Study Group
+
+JUNE 2022 
+
+
+
