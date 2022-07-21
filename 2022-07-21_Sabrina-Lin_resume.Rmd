@@ -22,6 +22,8 @@ Contact Info {#contact}
 
 - <i class="fa fa-envelope"></i> slin5\@mskcc.org
 
+- <i class="far fa-external-link"></i> [LinkedIn](https://www.linkedin.com/in/sabrina-lin-1a6530117)
+
 
 Skills {#skills}
 --------------------------------------------------------------------------------
@@ -82,7 +84,7 @@ MAY 2019 - AUGUST 2015
 
 *Study Abroad:* The Beijing Center, Beijing, China; Affiliated with University of International Business and Economics
 
-Experience {data-icon=handshake}
+Professional Experience {data-icon=handshake}
 --------------------------------------------------------------------------------
 
 ### Memorial Sloan Kettering Cancer Center (MSKCC)
@@ -152,68 +154,91 @@ JANUARY 2021 - AUGUST 2020
 - Guided, provided feedback, and graded students’ Phase 3 randomized clinical trial (RCT) proposals 
 - Assisted students with PASS software to calculate sample size and power for Phase 3 RCT proposals
 
-
-```{r, eval=FALSE}
-# need to fill in publications and posters section!
-```
-
 Publications and Posters {data-icon=file}
 --------------------------------------------------------------------------------
 
-### 
+###
 
-Biochemical measures of ovarian function in female high-risk neuroblastoma survivors
+Pancreatic cancer: Cutaneous metastases, clinical descriptors and outcomes
 
-International Symposium on Late Complications after Childhood Cancer 
+Cancer Medicine
 
 2022
 
-A DeRosa, K Bogardus, **CE Kostrzewa**, C Moskowitz, Z Antal, S Wolden, E Basu, S Roberts, F Iglesias Cardenas, N-KV Cheung, B Kushner, S Modak, D Novetsky Friedman
+L Gu, PP Mehta, D Rao, V Rotemberg, M Capanu, J Chou, **S Lin**, CS Sigel, ...
 
 ::: aside
-Abstract Submitted
+https://doi.org/10.1002/cam4.4916
 :::
 
 ### 
 
-SBRT Focal Dose Intensification to the Dominant Intraprostatic Lesion (DIL) Using an MR-Linac Adaptive Planning for Intermediate-Risk Prostate Cancer
+Organ preservation in patients with rectal adenocarcinoma treated with total neoadjuvant therapy
 
-Radiotherapy and Oncology
-
-2022
-
-VS Brennan, S Burleson, **CE Kostrzewa**, PG Scripes, E Subashi, Z Zhang, N Tyagi, MJ Zelefsky
-
-::: aside
-Abstract Submitted
-:::
-
-### 
-
-Favorable Clinical Outcomes of Medication Related Osteonecrosis of the Jaw Following Conservative Management: MSKCC Experience
-
-MASCC/ISOO 2022 Annual Meeting
+Journal of Clinical Oncology, JCO
 
 2022
 
-A Singh, **CE Kostrzewa**, A Pischek, E Riedel, S Yom, J Randazzo, J Huryn, C Estilo
-
+Julio Garcia-Aguilar, Sujata Patil, Marc J Gollub, Jin K Kim, Jonathan B Yuval, Hannah M Thompson, ..., **S Lin**
 
 ::: aside
-Abstract Submitted
+DOI: 10.1200/JCO.22.00032
+:::
+
+###
+Clinical outcomes of immune checkpoint inhibitors in HER2-amplified non-small cell lung cancers.
+
+American Society of Clinical Oncology (ASCO)
+
+2022
+
+Raymond DeMatteo, Debra A. Goldman, **Sabrina T. Lin**, Darren J. Buonocore, JianJiong Gao.. 
+
+::: aside
+https://doi.org/10.1200/JCO.2022.40.16_suppl.e21098
+:::
+
+###
+
+Central nervous system (CNS) outcomes and progression patterns in patients with RET fusion-positive lung cancers treated with selpercatinib.
+
+American Society of Clinical Oncology (ASCO)
+
+2022
+
+Yonina R. Murciano-Goroff, Christina J. Falcon, **Sabrina T. Lin**, Aradhika Dhawan, Grace Grimaldi, Dazhi Liu, Clare Wilhelm, Reeja Thomas, Alexia Iasonos, Alexander E. Drilon
+
+::: aside
+https://doi.org/10.1200/JCO.2022.40.16_suppl.3109
 :::
 
 
-### 
+###
 
-A Novel Predictive Model to Understand the Influence of Progression of Tumor Growth to Predict Survival in Liver Cancer
+Clinical and radiological predictors of organ preservation in patients with rectal cancer treated with total neoadjuvant therapy.
 
-ENAR
+American Society of Clinical Oncology (ASCO)
+
+2022
+
+Jonathan B Yuval, Floris S Verheij, **Sabrina T. Lin**, Hannah M Thompson, Dana M Omer, Jin K Kim, Jesse Joshua Smith, Marc J Gollub, Li-Xuan Qin, Julio Garcia-Aguilar
+
+::: aside
+https://doi.org/10.1200/JCO.2022.40.16_suppl.3619
+:::
+
+###
+Examining the association between immune biomarkers and pubertal maturation
+
+American Society of Preventative Oncology (ASPO)
 
 2021
 
-**CE Kostrzewa**, M Karmakar, S Chakraborty, S Sinha
+Lin ST, Wei Ying, Andrulis IL, Buys S, Schwartz LA, Bradbury AR, Daly MB, Santella RM, Chung WK, Terry MB, McDonald JA
 
+:::aside
+Abstract Published
+:::
 
 Presentations {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
@@ -225,6 +250,4 @@ Updates in R 4.2.0
 MSKCC Biostatistics Department: Open Study Group
 
 JUNE 2022 
-
-
 
