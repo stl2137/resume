@@ -28,7 +28,7 @@ Contact Info {#contact}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-**Data Analytics & Visualization:**  R/RStudio, Git/Github SAS, LaTeX, Tableau, SQL (Oracle, Teradata, JMP, PASS)
+**Data Analytics & Visualization:**  R/RStudio, Git/Github SAS, LaTeX, Tableau, SQL (Oracle, Teradata), JMP, PASS
 
 **Microsoft Office Business Proficiency:** Word, Excel, Access
 
@@ -96,7 +96,6 @@ New York, New York
 PRESENT - AUGUST 2021
 
 - Utilizes R and SAS to clean, merge, analyze, and visualize clinical survival data with up to 1000 patients
-
 - Collaborates and communicates via email and Zoom meetings with 3 faculty biostatisticians and 15
 clinicians in the colorectal surgical oncology, gastric multiple tumor, and early drug development services
 
